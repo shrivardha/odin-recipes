@@ -1,1 +1,2 @@
 # odin-recipes
+This is a Recipes website. This websites hosts various yummy recipes and easy to make recipes. To make this project is used HTML. It involved using paragraphs, links, images, lists and many more HTML attributes.
